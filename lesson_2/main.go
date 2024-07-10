@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+var Global_var int = 1
+
 func main() {
 	var a int8
 	var b int16
