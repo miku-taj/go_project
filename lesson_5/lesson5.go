@@ -148,5 +148,3 @@ func addMark(subjectMarksP *int, totalMarksP *int, mark int) {
 func calculateMean(subjectMarksP *int, totalMarksP *int) int {
 	return *subjectMarksP / *totalMarksP
 }
-
-//9
